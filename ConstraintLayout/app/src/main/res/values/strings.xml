@@ -1,3 +1,7 @@
 <resources>
 	<string name="app_name">ConstraintLayout</string>
+    <string name="right_above_bottom">RIGHT ABOVE BOTTOM</string>
+    <string name="bottom">BOTTOM</string>
+    <string name="left_below_top">LEFT BELOW TOP</string>
+    <string name="button">Button</string>
 </resources>
